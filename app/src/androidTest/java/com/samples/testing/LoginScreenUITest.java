@@ -1,4 +1,4 @@
-package com.samples.androidtesting;
+package com.samples.testing;
 
 import android.app.Activity;
 import android.app.Instrumentation;
@@ -7,8 +7,8 @@ import android.support.test.espresso.action.ViewActions;
 import android.support.test.espresso.intent.rule.IntentsTestRule;
 import android.support.test.runner.AndroidJUnit4;
 
-import com.samples.androidtesting.annotation.EspressoTest;
-import com.samples.androidtesting.login.LoginActivity;
+import com.samples.testing.annotation.EspressoTest;
+import com.samples.testing.login.LoginActivity;
 
 import org.junit.Before;
 import org.junit.Rule;

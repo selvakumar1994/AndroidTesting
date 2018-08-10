@@ -1,4 +1,4 @@
-package com.samples.androidtesting.login;
+package com.samples.testing.login;
 
 import org.junit.Before;
 import org.junit.Test;

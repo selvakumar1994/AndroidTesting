@@ -1,9 +1,9 @@
-package com.samples.androidtesting.login;
+package com.samples.testing.login;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.samples.androidtesting.R;
+import com.samples.testing.R;
 
 public class LoginActivity extends AppCompatActivity {
 

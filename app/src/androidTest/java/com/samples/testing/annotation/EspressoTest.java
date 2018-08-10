@@ -1,4 +1,4 @@
-package com.samples.androidtesting.annotation;
+package com.samples.testing.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

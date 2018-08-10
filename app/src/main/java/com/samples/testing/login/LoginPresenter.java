@@ -1,4 +1,4 @@
-package com.samples.androidtesting.login;
+package com.samples.testing.login;
 
 import android.support.annotation.NonNull;
 

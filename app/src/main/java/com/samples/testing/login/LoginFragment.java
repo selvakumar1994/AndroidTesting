@@ -1,4 +1,4 @@
-package com.samples.androidtesting.login;
+package com.samples.testing.login;
 
 
 import android.content.Intent;
@@ -13,8 +13,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.samples.androidtesting.R;
-import com.samples.androidtesting.WelcomeActivity;
+import com.samples.testing.R;
+import com.samples.testing.WelcomeActivity;
 
 public class LoginFragment extends Fragment implements LoginContract.View, View.OnClickListener {
 

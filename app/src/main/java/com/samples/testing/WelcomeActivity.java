@@ -1,4 +1,4 @@
-package com.samples.androidtesting;
+package com.samples.testing;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

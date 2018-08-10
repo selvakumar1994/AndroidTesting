@@ -1,10 +1,10 @@
-package com.samples.androidtesting;
+package com.samples.testing;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.samples.androidtesting.login.LoginActivity;
+import com.samples.testing.login.LoginActivity;
 
 public class SplashActivity extends AppCompatActivity {
 
